@@ -1,0 +1,41 @@
+
+zhua.png
+size: 353,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0000_zhua1
+  rotate: true
+  xy: 170, 11
+  size: 49, 77
+  orig: 49, 77
+  offset: 0, 0
+  index: -1
+_0001_zhua2
+  rotate: false
+  xy: 249, 28
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+_0002_zhua3
+  rotate: true
+  xy: 2, 62
+  size: 16, 349
+  orig: 16, 349
+  offset: 0, 0
+  index: -1
+_0003_zhua4
+  rotate: true
+  xy: 2, 2
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+_0004_zhua5
+  rotate: true
+  xy: 86, 2
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1

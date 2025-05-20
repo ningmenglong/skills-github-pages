@@ -1,0 +1,48 @@
+
+20028.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bzguang1
+  rotate: false
+  xy: 222, 350
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+bzguang2
+  rotate: false
+  xy: 352, 350
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guanban1
+  rotate: false
+  xy: 352, 248
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 222, 220
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wl
+  rotate: false
+  xy: 2, 260
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+wl1
+  rotate: false
+  xy: 2, 50
+  size: 144, 208
+  orig: 144, 208
+  offset: 0, 0
+  index: -1

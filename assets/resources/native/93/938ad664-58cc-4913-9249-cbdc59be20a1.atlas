@@ -1,0 +1,55 @@
+
+20030.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huaban_a1
+  rotate: false
+  xy: 104, 200
+  size: 96, 46
+  orig: 96, 46
+  offset: 0, 0
+  index: -1
+huaban_a2
+  rotate: false
+  xy: 202, 204
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+huaban_a3
+  rotate: false
+  xy: 104, 164
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+huaban_a5
+  rotate: false
+  xy: 2, 2
+  size: 76, 40
+  orig: 76, 40
+  offset: 0, 0
+  index: -1
+huaban_a6
+  rotate: false
+  xy: 104, 138
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 2, 146
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yanwu1
+  rotate: false
+  xy: 2, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
