@@ -1,0 +1,111 @@
+
+ui_chuzhengzhimen.png
+size: 451,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangdian
+  rotate: false
+  xy: 124, 11
+  size: 53, 53
+  orig: 60, 60
+  offset: 4, 3
+  index: -1
+huo0001
+  rotate: true
+  xy: 114, 66
+  size: 41, 66
+  orig: 60, 68
+  offset: 11, 0
+  index: -1
+huo0002
+  rotate: true
+  xy: 315, 62
+  size: 45, 59
+  orig: 60, 68
+  offset: 9, 0
+  index: -1
+huo0003
+  rotate: true
+  xy: 376, 59
+  size: 48, 59
+  orig: 60, 68
+  offset: 6, 0
+  index: -1
+huo0004
+  rotate: true
+  xy: 179, 17
+  size: 46, 59
+  orig: 60, 68
+  offset: 5, 0
+  index: -1
+huo0005
+  rotate: true
+  xy: 240, 16
+  size: 47, 53
+  orig: 60, 68
+  offset: 4, 0
+  index: -1
+huo0006
+  rotate: true
+  xy: 295, 12
+  size: 48, 53
+  orig: 60, 68
+  offset: 3, 0
+  index: -1
+huo0007
+  rotate: true
+  xy: 402, 9
+  size: 48, 47
+  orig: 60, 68
+  offset: 3, 0
+  index: -1
+huo0008
+  rotate: true
+  xy: 350, 8
+  size: 49, 50
+  orig: 60, 68
+  offset: 3, 0
+  index: -1
+huo0009
+  rotate: true
+  xy: 66, 3
+  size: 51, 56
+  orig: 60, 68
+  offset: 3, 0
+  index: -1
+huo0010
+  rotate: false
+  xy: 2, 47
+  size: 50, 60
+  orig: 60, 68
+  offset: 3, 0
+  index: -1
+huo0011
+  rotate: true
+  xy: 2, 2
+  size: 43, 62
+  orig: 60, 68
+  offset: 9, 0
+  index: -1
+huo0012
+  rotate: true
+  xy: 249, 65
+  size: 42, 64
+  orig: 60, 68
+  offset: 9, 0
+  index: -1
+huo0013
+  rotate: true
+  xy: 182, 65
+  size: 42, 65
+  orig: 60, 68
+  offset: 10, 0
+  index: -1
+jian
+  rotate: false
+  xy: 54, 56
+  size: 58, 51
+  orig: 60, 60
+  offset: 1, 4
+  index: -1

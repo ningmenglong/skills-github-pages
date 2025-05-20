@@ -1,0 +1,76 @@
+
+20004.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/zhongdu/zhongdu_00000
+  rotate: false
+  xy: 2, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+effect/zhongdu/zhongdu_00001
+  rotate: false
+  xy: 173, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+effect/zhongdu/zhongdu_00002
+  rotate: false
+  xy: 344, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+effect/zhongdu/zhongdu_00003
+  rotate: false
+  xy: 515, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+effect/zhongdu/zhongdu_00004
+  rotate: false
+  xy: 686, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+effect/zhongdu/zhongdu_00005
+  rotate: false
+  xy: 857, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+effect/zhongdu/zhongdu_00006
+  rotate: false
+  xy: 1028, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+effect/zhongdu/zhongdu_00007
+  rotate: false
+  xy: 1199, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+effect/zhongdu/zhongdu_00008
+  rotate: false
+  xy: 1370, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
+effect/zhongdu/zhongdu_00009
+  rotate: false
+  xy: 1541, 2
+  size: 169, 189
+  orig: 169, 189
+  offset: 0, 0
+  index: -1
