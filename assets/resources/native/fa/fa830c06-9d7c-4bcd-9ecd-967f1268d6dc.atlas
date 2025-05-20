@@ -1,0 +1,27 @@
+
+20003.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/zhiliao/lizi_00000
+  rotate: false
+  xy: 36, 15
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+effect/zhiliao/shizi_00000
+  rotate: false
+  xy: 2, 2
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+effect/zhiliao/xiantiao_00000
+  rotate: true
+  xy: 2, 37
+  size: 14, 84
+  orig: 14, 84
+  offset: 0, 0
+  index: -1
