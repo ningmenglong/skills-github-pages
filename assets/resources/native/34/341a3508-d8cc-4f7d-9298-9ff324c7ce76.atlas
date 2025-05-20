@@ -1,0 +1,13 @@
+
+ui_yanjing.png
+size: 260,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanjing02
+  rotate: false
+  xy: 2, 2
+  size: 256, 134
+  orig: 256, 134
+  offset: 0, 0
+  index: -1
